@@ -9,7 +9,7 @@ int main(){
     cout<<"Por eso, igualando los datos"<<endl;
     cout<<"La formula es: 2x=80"<<endl;
     x=dab/2;
-    cout<<"Puesto que Juan esta en el km 70 se van a encontrar en el km: "+70+x<<endl;
+    cout<<"Puesto que Juan esta en el km 70 se van a encontrar en el km: "<70+x<<endl;
 
     return 0;
 }
